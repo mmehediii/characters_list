@@ -1489,3 +1489,4 @@ spider-gwen, marvel, 1girl, blonde_hair, blue_eyes
 ro635_(girls'_frontline), girls'_frontline, 1girl, black_hair, yellow_eyes
 yamagumo_(kancolle), kantai_collection, 1girl, grey_hair, grey_eyes
 sakurajima_mai, seishun_buta_yarou, 1girl, black_hair, blue_eyes
+Esdeath, akame ga kill, 1girl, blue_hair, blue_eyes
